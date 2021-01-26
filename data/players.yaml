@@ -2011,6 +2011,12 @@
       - '290617'
     voobly:
       - '124317014'
+  - name: Jesse Pinkman
+  country: cl
+  platforms:
+    de:
+      - '2061131'
+      - '3579484'
 - name: Hallis
   country: gb
   twitch: https://www.twitch.tv/hallisaoc
